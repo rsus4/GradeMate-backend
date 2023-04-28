@@ -35,10 +35,8 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#running-backend">Running Backend</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#running-frontend">Running Frontend</a> •
+  <a href="#need-help">Need Help</a> •
   <a href="#license">License</a>
 </p>
 
@@ -106,7 +104,7 @@ $ nodemon index.js
 MIT
 
 
-## Need Help? 🤝
+## Need Help
 Feel free to make bug reports on issues. Reach out in case you need further assistance. 
 
 *Contact us:*
