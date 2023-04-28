@@ -1,7 +1,8 @@
-
-<h1 align="center">  
-  <br>![grademate1](https://user-images.githubusercontent.com/55681207/235140518-07be1343-6f9c-4bd0-91e1-ec4b9ed4ba02.png)
-  GradeMate
+<h1 align="center">
+  <br>
+  <a href="https://github.com/rsus4/GradeMate-backend/"><img src="https://user-images.githubusercontent.com/55681207/235140518-07be1343-6f9c-4bd0-91e1-ec4b9ed4ba02.png" alt="GradeMate" width="200"></a>
+  <br>
+  Markdownify
   <br>
 </h1>
 
